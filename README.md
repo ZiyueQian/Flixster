@@ -20,12 +20,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-
-<img src='portrait.gif' title='Video Walkthrough' width='' alt='Portrait Video Walkthrough' />
 Portrait mode 
+<img src='portrait.gif' title='Video Walkthrough' width='' alt='Portrait Video Walkthrough' />
 
-<img src='landscape.gif' title='Video Walkthrough' width='' alt='Landscape Video Walkthrough' />
 Landscape mode
+<img src='landscape.gif' title='Video Walkthrough' width='' alt='Landscape Video Walkthrough' />
+
 
 ### Notes
 I tried to implement the default placeholder image, but I wasn't sure how exactly to imeplement the drawable object. 
