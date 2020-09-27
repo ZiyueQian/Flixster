@@ -21,7 +21,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src='portrait.gif' title='Video Walkthrough' width='' alt='Portrait Video Walkthrough' />
+Portrait mode 
+
+<img src='landscape.gif' title='Video Walkthrough' width='' alt='Landscape Video Walkthrough' />
+Landscape mode
 
 ### Notes
 I tried to implement the default placeholder image, but I wasn't sure how exactly to imeplement the drawable object. 
