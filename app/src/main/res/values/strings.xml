@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Flixster</string>
+    <string name="poster">poster</string>
+    <string name="money_plane">Money Plane</string>
+    <string name="_8_5_10">8.5/10</string>
+    <string name="overview_sample_text">Overview sample text</string>
 </resources>
