@@ -22,13 +22,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src='week2.gif' title='Video Walkthrough' width='' alt='Portrait Video Walkthrough' />
 
 ### Notes
 
-I found the Codepath guides very helpful. However, some of the code seemed to be different (such as Glide's transformation for cropping an image), so I relied on the Slack community to answer my questions.
+I found the Codepath guides very helpful. However, some of the guide's code seemed to be different from my context (such as Glide's transformation for cropping an image), so I relied on the Slack community to answer my questions.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
